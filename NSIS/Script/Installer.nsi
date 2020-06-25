@@ -33,7 +33,7 @@ Section "" ;No components page, name is not important.
   File ..\..\LICENSE.txt
   
   ; Application Files.
-  File ..\..\SponsoringSlideshow\bin\Debug\*.exe
-  File ..\..\SponsoringSlideshow\bin\Debug\*.config
+  File ..\..\SponsoringSlideshow\bin\Release\*.exe
+  File ..\..\SponsoringSlideshow\bin\Release\*.config
   
 SectionEnd
