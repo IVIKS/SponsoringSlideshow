@@ -29,7 +29,10 @@ Section "" ;No components page, name is not important.
   ; Set output path to the installation directory.
   SetOutPath $INSTDIR
   
-  ; Put files there.
+  ; License File.
+  File ..\..\LICENSE.txt
+  
+  ; Application Files.
   File ..\..\SponsoringSlideshow\bin\Debug\*.exe
   File ..\..\SponsoringSlideshow\bin\Debug\*.config
   
